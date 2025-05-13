@@ -13,6 +13,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-furqan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-furqan/" height="30" width="40" /></a>
   <a href="https://dribbble.com/https://dribbble.com/m_furqan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/m_furqan19" height="30" width="40" /></a>
   <a href="https://www.behance.net/https://www.behance.net/m_furqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/m_furqan" height="30" width="40" /></a>
+  <a href="https://medium.com/@muhammadfurqan17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@muhammadfurqan17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
